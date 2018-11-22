@@ -17,4 +17,6 @@ questions:
 - dead-angle sensors can use HW for back sensors if we are not parking, or we should use them as well while parking?
 
 
+youtube demo showing rendering speed, front is quicker then rear ....
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R9Q83hKRvCc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
