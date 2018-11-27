@@ -1,6 +1,6 @@
 # FISsensors
 
-- reading 4 read and 4 front sensors
+- reading 4 rear and 4 front sensors
 
 - posible 2 dead angle sensors at side back bumper
 
